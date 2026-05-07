@@ -87,14 +87,16 @@ Every stock transfer is automatically logged to `logistics_log.txt`, including:
 
 ## Screenshots
 
+## Screenshots
+
 | # | Screenshot | Description |
 |---|-----------|-------------|
-| 1 | ![EC2 Instance](screenshots/01_ec2-instance-running.png) | EC2 instance running in AWS Console |
-| 2 | ![SSH Login](screenshots/02_ssh-login-putty.png) | SSH connection via PuTTY |
-| 3 | ![whoami](screenshots/03_ec2-user-verified.png) | EC2 user identity verified |
-| 4 | ![Data Directory](screenshots/04_data-directory-ls.png) | /data directory with all project files |
-| 5 | ![Navigation](screenshots/05_cd-data-navigation.png) | Navigating into /data |
-| 6 | ![Menus](screenshots/06_supply-chain-inventory-menus.png) | Both CLI menus running live |
+| 1 | ![EC2 Instance](screenshots/01_aws_ec2_instance_dashboard.png) | EC2 instance running in AWS Console |
+| 2 | ![SSH Login](screenshots/02_ssh_login_via_putty.png) | SSH connection via PuTTY |
+| 3 | ![whoami](screenshots/03_ec2_user_verification_whoami.png) | EC2 user identity verified |
+| 4 | ![Data Directory](screenshots/04_data_directory_listing_ebs_volume.png) | /data directory with all project files |
+| 5 | ![Navigation](screenshots/05_cd_into_data_directory.png) | Navigating into /data |
+| 6 | ![Menus](screenshots/06_inventory_and_supply_chain_menu.png) | Both CLI menus running live |
 
 ---
 
