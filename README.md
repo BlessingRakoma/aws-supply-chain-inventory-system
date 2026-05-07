@@ -6,7 +6,7 @@ A cloud-based Supply Chain and Inventory Management System built on AWS EC2. Thi
 
 ## About This Project
 
-This system was built to demonstrate practical cloud engineering skills — infrastructure setup, Linux administration, Bash scripting, and system design — all running on a live AWS EC2 instance.
+This system was built to demonstrate practical cloud engineering skills, infrastructure setup, Linux administration, Bash scripting, and system design — all running on a live AWS EC2 instance.
 
 **Candidate:** Blessing Rakoma
 **Role Target:** Cloud Engineer
